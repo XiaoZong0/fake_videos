@@ -12,4 +12,4 @@ DRIVING_DIR="driving_video_2"          # 驱动视频目录
 
 OUTPUT_ROOT="output_videos"          # 输出根目录
 
-2. bash batch_generate.sh
+2.bash batch_generate.sh
